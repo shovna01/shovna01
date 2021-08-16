@@ -1,9 +1,9 @@
 Hello!
 
 - 👋 Hi, I’m Shovna Panda
-- 🌱 I am currently working on MERN Stack Web Development
-- 👀 I’m also interested in Android App Development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I am a MERN Stack Web Developer
+- 🌱 I am currently learning Spring Boot
+- 🌱 I am currently working on Spring Boot applications using ReactJs for the frontend
 - 💞️ I’m looking to collaborate on Web Development projects using the MERN Stack
 - 📫 One can reach me at shovnapanda01@gmail.com
 <!---
