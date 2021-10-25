@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Spring MVC applications using ReactJS for the frontend**
 
-- 🌱 I’m currently learning **Spring MVC**
+- 🌱 I’m currently learning **Spring boot**
 
 - 👯 I’m looking to collaborate on **projects using the MERN Stack**
 
