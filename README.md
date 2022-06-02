@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shovna Panda</h1>
 <h3 align="center">A student currently focusing on MERN Stack Web Development and Problem Solving</h3>
 
-- 🔭 I’m currently working on **Spring boot applications using ReactJS for the frontend**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **DSA and Machine Learning**
 
 - 👯 I’m looking to collaborate on **projects using the MERN Stack**
 
